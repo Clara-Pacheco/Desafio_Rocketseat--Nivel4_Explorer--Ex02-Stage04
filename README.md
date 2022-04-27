@@ -3,9 +3,9 @@
 <img width="150px" src="https://www.rocketseat.com.br/_next/image?url=%2Fassets%2Flogos%2Fexplorer.svg&w=256&q=75"  alt="">
 <br>
 <p align="center">
-<img src="https://img.shields.io/github/last-commit/Clara-Pacheco/Desafio_Rocketseat--Nivel4_Explorer--Ex01-Stage04?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/repo-size/Clara-Pacheco/Desafio_Rocketseat--Nivel4_Explorer--Ex01-Stage04?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/github/languages/count/Clara-Pacheco/Desafio_Rocketseat--Nivel4_Explorer--Ex01-Stage04?style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/Clara-Pacheco/Desafio_Rocketseat--Nivel4_Explorer--Ex02-Stage04?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/repo-size/Clara-Pacheco/Desafio_Rocketseat--Nivel4_Explorer--Ex02-Stage04?style=for-the-badge"/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/github/languages/count/Clara-Pacheco/Desafio_Rocketseat--Nivel4_Explorer--Ex02-Stage04?style=for-the-badge"/>
 </p>
 </div>
 
@@ -49,7 +49,7 @@ no decorrer do programa <b>Explorer</b>.
 
 📅 **26.04.2022**
 
-🕛 **Status:** Em andamento✔️
+🕛 **Status:** Concluído✔️
 
 🌎 **Result Preview: []()**
 
